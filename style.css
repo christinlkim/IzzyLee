@@ -1,0 +1,23 @@
+.jumbotron {
+
+    background-image:;
+    background-color: linen;
+    font-style: italic;
+
+}
+
+body {
+  background: lightblue;
+}
+
+.row1 {
+  background: linen;
+  padding: 25px;
+  margin-bottom: 25px;
+}
+
+.row2 {
+  background: linen;
+  padding: 25px;
+  margin-top: 25px;
+}
