@@ -1,6 +1,6 @@
 .jumbotron {
 
-    background-image: url(skyline.jpg);
+    background-image: url(./image/skyline.jpg);
     background-color: linen;
     font-style: italic;
 
@@ -8,6 +8,7 @@
 
 body {
   background: lightblue;
+
 }
 
 .row1 {
@@ -16,18 +17,19 @@ body {
   margin-bottom: 25px;
   border-width: 35px;
   border-color: brown;
+
 }
 
 .row2 {
   background: linen;
-  padding: 25px;
-  margin-top: 25px;
+  /*padding: 25px;
+  margin-top: 25px;*/
 }
 
 .row3 {
   background: linen;
-  padding: 25px;
-  margin-top: 25px;
+  /*padding: 25px;
+  margin-top: 25px;*/
 }
 
 .row4 {
