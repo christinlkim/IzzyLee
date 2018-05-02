@@ -7,17 +7,21 @@
 }
 
 body {
-  background: lightblue;
+  background: #340101;
 
+}
+
+.row {
+  background: linen;
+  margin-bottom: 25px;
+  padding: 25px;
+  margin-top: 25px;
 }
 
 .row1 {
   background: linen;
   padding: 25px;
   margin-bottom: 25px;
-  border-width: 35px;
-  border-color: brown;
-
 }
 
 .row2 {
@@ -27,12 +31,6 @@ body {
 }
 
 .row3 {
-  background: linen;
-  /*padding: 25px;
-  margin-top: 25px;*/
-}
-
-.row4 {
   background: linen;
   padding: 25px;
   margin-top: 25px;
